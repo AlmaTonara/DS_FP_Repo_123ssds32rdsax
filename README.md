@@ -1,4 +1,6 @@
-Benchmarking.jar is for benchmarking/raw testing
-SimulationApp.jar is for a visual representation/interactive benchmarking tool, not as concise or precise, but interactive
+## Overview
+This repository consists of executable .jar files, raw source codes, and buildable raw source codes with Maven
 
-A minimum of JDK version 23/major 67 or higher is required
+### How to Run the .jar Files
+- Have OpenJDK version 23 or above installed and active
+- Double click either .jar files

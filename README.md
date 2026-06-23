@@ -4,3 +4,7 @@ This repository consists of executable .jar files, raw source codes, and buildab
 ### How to Run the .jar Files
 - Have OpenJDK version 23 or above installed and active
 - Double click either .jar files
+- "Benchmarking.jar" is a benchmarking app that facilitates direct input of variables and outputs runtime performance for operations into a .txt file
+- "SimulationApp.jar" is a simulation app that functions as a visual benchmarker, sacrificing precision for presentation
+  
+- Alternatively, you can run either .jar files using the command line, navigating to the folder containing either files and executing "java -jar filename.jar" with openJDK version 23+ installed

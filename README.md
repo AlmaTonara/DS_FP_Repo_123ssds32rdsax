@@ -8,3 +8,9 @@ This repository consists of executable .jar files, raw source codes, and buildab
 - "SimulationApp.jar" is a simulation app that functions as a visual benchmarker, sacrificing precision for presentation
   
 - Alternatively, you can run either .jar files using the command line, navigating to the folder containing either files and executing "java -jar filename.jar" with openJDK version 23+ installed
+
+### How to Access Raw Readable Source Codes
+- Raw readable source codes are contained in the folder "source code" which contains .java files that can be read
+
+### How to Access and Possibly Independently Compile Code
+- The zip file "DSFinalProjectApp" contains the full build file made in Netbeans using Maven

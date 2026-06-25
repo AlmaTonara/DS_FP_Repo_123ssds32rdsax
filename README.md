@@ -1,5 +1,5 @@
 ## Overview
-This repository consists of executable .jar files, raw source codes, and buildable raw source codes with Maven
+This repository consists of executable .jar files in "Benchmarking.jar" and "SimulationApp.jar", raw source codes in the folder "source code", and buildable raw source codes with Maven in the zip file "DSFinalProjectApp.zip"
 
 ### How to Run the .jar Files
 - Have OpenJDK version 23 or above installed and active

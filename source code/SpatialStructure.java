@@ -2,6 +2,16 @@ package com.mycompany.dsfinalprojectapp;
 
 import java.util.ArrayList;
 
+/* Spatial structure interface
+A spatial structure must contain at least:
+- Insert an entity/object
+- Remove an entity/object based on coordinates
+- Update an entity/object's position
+- Access a coordinate's data
+- Access a range of coordinate's data
+- Basic information retrieval/getter methods
+*/
+
 // Spatial structure interface
 public interface SpatialStructure {
     // Insert an entity, their coordinates are initially stored in the entity itself
